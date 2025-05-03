@@ -1,0 +1,14 @@
+c:\Users\Alice Machado\Documents\POO\Patos\bin\Debug\net9.0\Patos.exe
+C:\Users\Alice Machado\Documents\POO\Patos\bin\Debug\net9.0\Patos.deps.json
+C:\Users\Alice Machado\Documents\POO\Patos\bin\Debug\net9.0\Patos.runtimeconfig.json
+c:\Users\Alice Machado\Documents\POO\Patos\bin\Debug\net9.0\Patos.dll
+c:\Users\Alice Machado\Documents\POO\Patos\bin\Debug\net9.0\Patos.pdb
+c:\Users\Alice Machado\Documents\POO\Patos\obj\Debug\net9.0\Patos.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alice Machado\Documents\POO\Patos\obj\Debug\net9.0\Patos.AssemblyInfoInputs.cache
+c:\Users\Alice Machado\Documents\POO\Patos\obj\Debug\net9.0\Patos.AssemblyInfo.cs
+c:\Users\Alice Machado\Documents\POO\Patos\obj\Debug\net9.0\Patos.csproj.CoreCompileInputs.cache
+c:\Users\Alice Machado\Documents\POO\Patos\obj\Debug\net9.0\Patos.dll
+c:\Users\Alice Machado\Documents\POO\Patos\obj\Debug\net9.0\refint\Patos.dll
+c:\Users\Alice Machado\Documents\POO\Patos\obj\Debug\net9.0\Patos.pdb
+C:\Users\Alice Machado\Documents\POO\Patos\obj\Debug\net9.0\Patos.genruntimeconfig.cache
+C:\Users\Alice Machado\Documents\POO\Patos\obj\Debug\net9.0\ref\Patos.dll
